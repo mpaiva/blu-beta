@@ -29,7 +29,7 @@
           "green": 1,
           "red": 1
         },
-        "changeIdentifier": 3,
+        "changeIdentifier": 63,
         "do_objectID": "6BB2AD95-DEB6-4261-80E0-02809D09FA41",
         "exportOptions": {
           "_class": "exportOptions",
@@ -93,7 +93,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 1,
+            "layerListExpandedType": 0,
             "layers": [
               {
                 "_class": "rectangle",
@@ -254,9 +254,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.2902374565601349,
-                    "green": 0.2901752889156342,
-                    "red": 0.290221631526947
+                    "blue": 0.4505774456521738,
+                    "green": 1,
+                    "red": 0
                   },
                   "fillType": 0,
                   "isEnabled": true,
@@ -384,7 +384,7 @@
           "green": 1,
           "red": 1
         },
-        "changeIdentifier": 4,
+        "changeIdentifier": 63,
         "do_objectID": "6BB2AD95-DEB6-4261-80E0-02809D09FA41",
         "exportOptions": {
           "_class": "exportOptions",
@@ -448,7 +448,7 @@
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
-            "layerListExpandedType": 1,
+            "layerListExpandedType": 0,
             "layers": [
               {
                 "_class": "rectangle",
@@ -609,9 +609,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.2902374565601349,
-                    "green": 0.2901752889156342,
-                    "red": 0.290221631526947
+                    "blue": 0.4505774456521738,
+                    "green": 1,
+                    "red": 0
                   },
                   "fillType": 0,
                   "isEnabled": true,
@@ -1692,7 +1692,6 @@
   "meta": {
     "appVersion": "49",
     "build": 51002,
-    "commit": "0d6159dce47524c255dd4fa80da3eb7398495bb5",
     "version": 101
   },
   "pages": [
